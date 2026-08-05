@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 - E-mail: barsulsergij@gmail.com
-- Telegram: @s3rbar
+- Telegram: @s3rb4r
