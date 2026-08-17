@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - 🎓 I study Software Engineering in National Transport University (2024-2028)
 - 🌐 You can access all my open-source projects here on Github
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-```yaml
-- Working on DevOps with Docker 2026 - MOOC.fi courses
-```
-
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
